@@ -1,0 +1,3 @@
+Requirement: Verify login with valid credentials.
+Description: User with a valid username and password should be able to log in successfully.
+Expected: Redirect to secure/landing page and show success message.
