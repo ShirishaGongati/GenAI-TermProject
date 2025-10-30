@@ -1,0 +1,3 @@
+Requirement: Verify login with invalid password.
+Description: When the user enters a wrong password, the system should not log them in.
+Expected: Show error banner/message and remain on login page.
