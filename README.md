@@ -24,9 +24,9 @@ The system is implemented in a Jupyter Notebook with:
 
 ## Files in this Repository
 
-- `Final_Demo_with_GUI.ipynb` – main project notebook and demo  
-- `GenAI_Final_Project_Presentation.pptx` – final presentation slides  
-- `Final_Report.pdf` – final written report (IEEE style)  
+- `Final Demo with GUI.ipynb` – main project notebook and demo  
+- `Final Demo Presentation.pptx` – final presentation slides  
+- `Final Report Overleaf.pdf` – final written report (IEEE style)  
 
 ---
 
