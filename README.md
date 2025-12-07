@@ -30,16 +30,14 @@ The system is implemented in a Jupyter Notebook with:
 
 ---
 
-## 🔗 Links to Artifacts
+### Jupyter Notebook  
+👉 [Final Demo with GUI](./Final%20Demo%20with%20GUI.ipynb)
 
-- **Notebook:**  
-  [Final Demo with GUI](./Final_Demo_with_GUI.ipynb)
+###  Presentation PPT  
+👉 [Final Demo Presentation](./Final%20Demo%20Presentation.pptx)
 
--  **Presentation PPT:**  
-  [Download Presentation](./GenAI_Final_Project_Presentation.pptx)
-
-- **Final Report (PDF):**  
-  [Download Report](./Final_Report.pdf)
+### Final Report (PDF)  
+👉 [Final Report Overleaf](./Final%20Report%20Overleaf.pdf)
 
 ---
 
